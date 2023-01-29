@@ -1,4 +1,5 @@
-# Data-Astronomy-project
+# Data-Astronomy-project:
+I am Omar Kashmar Mtech Aerospace Engineering.My roll number is 213011004.My email id is :omar.b.kashmar@gmail.com
 # Week 1:
 it contains information about the Pulsars and the code about imaging stacking
 ## Week 2:
