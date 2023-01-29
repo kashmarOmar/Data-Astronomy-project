@@ -13,5 +13,5 @@ Building a regression classifier
 Improving our results with ensemble classifiers (Randome foraset)
 ## Link to the presentation
 https://drive.google.com/file/d/1NVfe3V7kmMmJ_5nCDUjZ71LtSnyLRoQ-/view?usp=share_link
-#### Link to the vidieo:
+## Link to the video:
 https://drive.google.com/file/d/1Uu9OK_seiFoDcKoTDA5P_wlTxpP8c4VX/view?usp=share_link
